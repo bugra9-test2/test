@@ -9,7 +9,4 @@ describe('Test...', function(){
   it('test..', function(){
     assert(testClass.bb('dd') == "add", 'Error');
   });
-  it('test2..', function(){
-    assert(testClass.bb('zz') == "zz", 'Error');
-  });
 });
