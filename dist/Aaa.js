@@ -5,4 +5,7 @@ class Aaa {
   bb(v) {
     return "a" + v;
   }
+  cc() {
+    var a = "test";
+  }
 }
