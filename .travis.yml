@@ -1,3 +1,5 @@
+addons:
+  firefox: "49.0"
 before_script:
   - npm install -g testem
   - npm install -g mocha
