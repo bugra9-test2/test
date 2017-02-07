@@ -2,6 +2,6 @@
   "framework": "mocha+chai",
   "src_files": [
     "dist/*.js",
-    "test/*.js",
+    "test/*.js"
   ]
 }
